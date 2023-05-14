@@ -314,6 +314,7 @@ a {
 }
 .landing .text {
   flex: 1;
+  color: var(--main-color);
 }
 @media (max-width: 991px) {
   .landing .text {
